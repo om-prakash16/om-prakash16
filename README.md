@@ -19,9 +19,9 @@
 - 🔭 **Currently working on:**  
   A **dynamic platform** for real-time job listings, trend analysis, and interview preparation tools. Future features include an **AI interviewer** and **skill assessment modules**.  
 
-- 🌱 **Learning:**  
+<!--- 🌱 **Learning:**  
   Building robust **stock market price prediction** models using LSTM, ARIMA, and Prophet.  
-
+--->
 - 🤔 **Looking for:**  
   Challenging opportunities in **AI-ML, Data Science**, and tech-driven startups.  
 
