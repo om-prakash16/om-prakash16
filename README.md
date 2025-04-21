@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and enthusiastic techie from India 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/om-ji/" target="_blank">
+  <a href="https://www.linkedin.com/in/om-prakash-kr/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Om%20Prakash%20Kumar-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="https://github.com/om-prakash16" target="_blank">
