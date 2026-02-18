@@ -85,5 +85,5 @@
 
 ### 🤝 Connect with Me
 Feel free to reach out for collaborations or discussions on exciting tech ideas!  
-🌐 [LinkedIn](https://www.linkedin.com/in/om-ji/) | 📧 [Email](mailto:prakash.om.global@gmail.com) | ⚙️ [GitHub](https://github.com/om-prakash16)
+🌐 [LinkedIn](https://www.linkedin.com/in/om-prakash-kr/) | 📧 [Email](mailto:prakash.om.global@gmail.com) | ⚙️ [GitHub](https://github.com/om-prakash16)
 
