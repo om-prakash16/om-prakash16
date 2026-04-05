@@ -1,101 +1,231 @@
-<h1 align="center">Hi 👋, I'm Om Prakash Kumar</h1>
+<h1 align="center">Om Prakash Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Developer;AI+%26+Machine+Learning+Learner;Backend+Developer;Next.js+Developer;Building+AI+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;FastAPI+Backend+Developer;Startup+Focused+Builder;SaaS+Product+Engineer;Python+Automation+Developer"/>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=om-prakash16&color=0e75b6&style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Backend-00F7FF?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Startup-Ready-success?style=flat-square"/>
+
 </p>
 
 ---
 
-# 💫 About Me
+# About
 
-💻 Backend Developer focused on Python & APIs  
-🤖 Learning AI, Machine Learning & Data Science  
-🚀 Currently building AI based products  
-📊 Interested in solving real-world problems using data  
-🧠 Learning System Design & scalable architecture  
-🎯 Goal → AI Engineer / Backend Developer  
+Engineer focused on **building real products fast** using **Python, FastAPI, AI, and modern frontend tools**.
 
----
+I enjoy turning **ideas → MVP → scalable systems**, especially in:
 
-# ⚡ Tech Stack
+• AI powered SaaS tools  
+• automation platforms  
+• developer productivity tools  
+• data-driven products  
+• backend systems with clean architecture  
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+Comfortable working across **API design, databases, AI integration, and frontend coordination**.
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-
-### AI / Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/MachineLearning-102230?style=for-the-badge)
+Goal:
+Contribute to a **high-growth startup** as an **AI Engineer / Backend Engineer**.
 
 ---
 
-# 🚀 Featured Projects
+# Core Strengths
 
-## 🤖 AI Recruitment Platform
-Upload Job Description + multiple CV → AI ranks candidates based on skill match.
-
-Tech Stack:
-Python, NLP, Machine Learning, Next.js
+• Fast MVP development  
+• FastAPI backend architecture  
+• REST API design  
+• AI model integration  
+• SaaS product development  
+• database schema design  
+• authentication systems  
+• automation workflows  
 
 ---
 
-## 💼 Job Portal System
-Full-stack job portal where companies can post jobs and candidates apply.
+# Tech Stack
+
+### Languages
+Python
+██████████████████░░ 90%
+
+JavaScript
+██████████████░░░░░ 75%
+
+SQL
+████████████████░░░ 80%
+
+---
+
+### Backend
+FastAPI
+████████████████░░░ 85%
+
+REST APIs
+█████████████████░░ 90%
+
+Authentication
+███████████████░░░░ 80%
+
+Database Design
+████████████████░░░ 85%
+
+---
+
+### AI / Data
+Pandas
+████████████████░░░ 85%
+
+NumPy
+████████████████░░░ 85%
+
+Scikit-learn
+███████████████░░░░ 80%
+
+ML Integration
+██████████████░░░░░ 78%
+
+---
+
+### Frontend (working level)
+Next.js
+██████████████░░░░░ 75%
+
+React
+████████████░░░░░░░ 70%
+
+Tailwind
+███████████████░░░░ 80%
+
+---
+
+# Startup Relevant Projects
+
+## SkillProof AI (AI Hiring Engine)
+
+AI system that evaluates candidates based on skill similarity between resume and job description.
+
+Key capabilities:
+
+• resume parsing  
+• skill extraction  
+• semantic similarity scoring  
+• candidate ranking logic  
+• structured profile schema  
+• recruiter dashboard  
+
+Stack:
+FastAPI • Python • NLP • Machine Learning • Next.js
+
+---
+
+## AI Shorts Generator
+
+Tool that converts long-form video into multiple short-form clips automatically.
+
+Use cases:
+
+• creator productivity
+• social media automation
+• content repurposing
 
 Features:
-- Employer dashboard  
-- Talent profile section  
-- Job filtering system  
-- Authentication  
 
-Tech:
-Next.js, Tailwind, API
+• highlight detection
+• segment scoring
+• auto clipping
+• export pipeline
 
----
-
-## 📊 GitHub Portfolio Analyzer
-Analyzes GitHub profile repositories and highlights skills automatically.
+Potential stack:
+Python • FastAPI • FFmpeg • AI processing
 
 ---
 
-# 📊 GitHub Stats
+## Job Portal System
+
+Full-stack hiring platform supporting companies and candidates.
+
+Capabilities:
+
+• job posting system  
+• structured talent profiles  
+• filtering logic  
+• authentication system  
+• REST API backend  
+
+Stack:
+FastAPI • Next.js • Tailwind • database
+
+---
+
+## GitHub Profile Analyzer
+
+Analyzes repositories to estimate developer skill strengths automatically.
+
+Useful for:
+
+• recruiters
+• developer portfolios
+• skill benchmarking
+
+---
+
+# Web3 / Solana Interest
+
+Exploring how decentralized verification can improve hiring trust.
+
+Areas of interest:
+
+• verifiable credentials  
+• proof of skill systems  
+• on-chain reputation  
+• developer identity layers  
+
+Potential use:
+AI + Web3 trust-based hiring ecosystem.
+
+---
+
+# GitHub Stats
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=om-prakash16&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=om-prakash16&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-prakash16&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-prakash16&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# Contribution Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=om-prakash16&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=om-prakash16&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=om-prakash16&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# Stack Icons
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=om-prakash16&theme=react-dark"/>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,react,nextjs,tailwind,postgres,git,vercel"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# Connect
 
 <p align="center">
 
@@ -103,22 +233,44 @@ Analyzes GitHub profile repositories and highlights skills automatically.
 <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/om-prakash-kr/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
+</a>
+
+<a href="https://x.com/om_prakash_kr_">
+<img src="https://img.shields.io/badge/X-000?logo=x&style=for-the-badge"/>
+</a>
+
+<a href="https://www.instagram.com/om_prakash__kr/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://www.threads.com/@om_prakash__kr">
+<img src="https://img.shields.io/badge/Threads-000?style=for-the-badge"/>
+</a>
+
+<a href="https://www.facebook.com/om.prakash.kr.om/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
+</a>
+
+<a href="https://ommee.in/">
+<img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# Work Style
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=om-prakash16&color=blue"/>
-</p>
+Prefer:
+
+clear problem statements  
+lean architecture  
+fast iteration cycles  
+shipping MVP quickly  
+continuous improvement  
 
 ---
 
-# ⭐ Support
-
-If you like my work, give a ⭐ to repositories.
+If my work aligns with your startup, feel free to connect.
