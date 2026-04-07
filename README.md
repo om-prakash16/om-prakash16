@@ -1,16 +1,16 @@
 <h1 align="center">Om Prakash Kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;FastAPI+Backend+Developer;Startup+Focused+Builder;SaaS+Product+Engineer;Python+Automation+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2400&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;FastAPI+Engineer;AI+Project+Builder;SaaS+Focused+Developer;Automation+Engineer"/>
 </p>
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=om-prakash16&color=0e75b6&style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Backend-00F7FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Python%20%2B%20AI-00F7FF?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Startup-Ready-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-FastAPI-success?style=flat-square"/>
 
 </p>
 
@@ -18,176 +18,127 @@
 
 # About
 
-Engineer focused on **building real products fast** using **Python, FastAPI, AI, and modern frontend tools**.
+Python Backend Developer focused on building **AI-powered tools, backend APIs, and automation workflows**.
 
-I enjoy turning **ideas → MVP → scalable systems**, especially in:
+I enjoy transforming real-world problems into reliable software using:
 
-• AI powered SaaS tools  
-• automation platforms  
-• developer productivity tools  
-• data-driven products  
-• backend systems with clean architecture  
+• Python  
+• FastAPI  
+• REST APIs  
+• Data processing  
+• automation logic  
 
-Comfortable working across **API design, databases, AI integration, and frontend coordination**.
+Currently working with structured datasets and SaaS platforms, while building **AI and backend projects** including skill evaluation systems and data analysis tools.
 
-Goal:
-Contribute to a **high-growth startup** as an **AI Engineer / Backend Engineer**.
+Interested in building scalable SaaS products and intelligent developer tools.
 
 ---
 
 # Core Strengths
 
-• Fast MVP development  
-• FastAPI backend architecture  
+• FastAPI backend development  
 • REST API design  
-• AI model integration  
-• SaaS product development  
-• database schema design  
-• authentication systems  
-• automation workflows  
+• Python automation scripts  
+• data processing with Pandas & NumPy  
+• API integration  
+• backend workflow optimization  
+• problem solving  
+• SaaS product thinking  
 
 ---
 
 # Tech Stack
 
 ### Languages
-Python
-██████████████████░░ 90%
-
-JavaScript
-██████████████░░░░░ 75%
-
-SQL
-████████████████░░░ 80%
+Python  
+JavaScript (working level)  
+SQL (basic)
 
 ---
 
 ### Backend
-FastAPI
-████████████████░░░ 85%
-
-REST APIs
-█████████████████░░ 90%
-
-Authentication
-███████████████░░░░ 80%
-
-Database Design
-████████████████░░░ 85%
+FastAPI  
+REST APIs  
+JSON processing  
+API integration  
+backend logic design  
 
 ---
 
-### AI / Data
-Pandas
-████████████████░░░ 85%
-
-NumPy
-████████████████░░░ 85%
-
-Scikit-learn
-███████████████░░░░ 80%
-
-ML Integration
-██████████████░░░░░ 78%
+### Data / AI
+Pandas  
+NumPy  
+data preprocessing  
+automation workflows  
+AI API integration  
 
 ---
 
-### Frontend (working level)
-Next.js
-██████████████░░░░░ 75%
-
-React
-████████████░░░░░░░ 70%
-
-Tailwind
-███████████████░░░░ 80%
+### Tools
+Git  
+GitHub  
+Linux  
+VS Code  
+Postman  
 
 ---
 
-# Startup Relevant Projects
+# Projects
 
-## SkillProof AI (AI Hiring Engine)
+## SkillProof AI (Hackathon Project)
 
-AI system that evaluates candidates based on skill similarity between resume and job description.
+AI-based platform that evaluates developer skills using project analysis.
 
-Key capabilities:
+Key features:
 
-• resume parsing  
-• skill extraction  
-• semantic similarity scoring  
-• candidate ranking logic  
-• structured profile schema  
-• recruiter dashboard  
+• FastAPI backend APIs  
+• skill evaluation workflow  
+• GitHub project analysis  
+• structured skill profiles  
+• SaaS architecture approach  
 
-Stack:
-FastAPI • Python • NLP • Machine Learning • Next.js
-
----
-
-## AI Shorts Generator
-
-Tool that converts long-form video into multiple short-form clips automatically.
-
-Use cases:
-
-• creator productivity
-• social media automation
-• content repurposing
-
-Features:
-
-• highlight detection
-• segment scoring
-• auto clipping
-• export pipeline
-
-Potential stack:
-Python • FastAPI • FFmpeg • AI processing
+GitHub:
+https://github.com/om-prakash16/Skillsutra
 
 ---
 
-## Job Portal System
+## Stock Data Analysis Tool
 
-Full-stack hiring platform supporting companies and candidates.
+Python system for analyzing stock trends using structured datasets.
 
-Capabilities:
+Key features:
 
-• job posting system  
-• structured talent profiles  
-• filtering logic  
-• authentication system  
-• REST API backend  
+• fetch stock data via API  
+• analyze trends across timeframes  
+• data processing with Pandas NumPy  
+• logging and error handling  
 
-Stack:
-FastAPI • Next.js • Tailwind • database
-
----
-
-## GitHub Profile Analyzer
-
-Analyzes repositories to estimate developer skill strengths automatically.
-
-Useful for:
-
-• recruiters
-• developer portfolios
-• skill benchmarking
+GitHub:
+https://github.com/om-prakash16/NGTA
 
 ---
 
-# Web3 / Solana Interest
+## AI Chatbot
 
-Exploring how decentralized verification can improve hiring trust.
+Python chatbot integrating external AI APIs.
 
-Areas of interest:
+Key features:
 
-• verifiable credentials  
-• proof of skill systems  
-• on-chain reputation  
-• developer identity layers  
+• API-based response workflow  
+• input preprocessing  
+• structured output handling  
 
-Potential use:
-AI + Web3 trust-based hiring ecosystem.
+---
+
+# Learning Focus
+
+Currently improving skills in:
+
+• backend system design  
+• FastAPI advanced patterns  
+• AI workflow integration  
+• scalable SaaS architecture  
+• database design  
 
 ---
 
@@ -219,7 +170,7 @@ AI + Web3 trust-based hiring ecosystem.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,react,nextjs,tailwind,postgres,git,vercel"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,git,linux,vscode"/>
 
 </p>
 
@@ -237,24 +188,12 @@ AI + Web3 trust-based hiring ecosystem.
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
 </a>
 
-<a href="https://x.com/om_prakash_kr_">
-<img src="https://img.shields.io/badge/X-000?logo=x&style=for-the-badge"/>
-</a>
-
-<a href="https://www.instagram.com/om_prakash__kr/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-</a>
-
-<a href="https://www.threads.com/@om_prakash__kr">
-<img src="https://img.shields.io/badge/Threads-000?style=for-the-badge"/>
-</a>
-
-<a href="https://www.facebook.com/om.prakash.kr.om/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge"/>
-</a>
-
 <a href="https://ommee.in/">
 <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge"/>
+</a>
+
+<a href="mailto:prakash.om.global@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 
 </p>
@@ -266,11 +205,17 @@ AI + Web3 trust-based hiring ecosystem.
 Prefer:
 
 clear problem statements  
-lean architecture  
+clean backend architecture  
 fast iteration cycles  
-shipping MVP quickly  
-continuous improvement  
+building MVP quickly  
+continuous learning  
 
 ---
 
-If my work aligns with your startup, feel free to connect.
+Open to opportunities in:
+
+Python Backend Development  
+AI Engineering (entry level)  
+FastAPI development  
+API development  
+SaaS projects  
